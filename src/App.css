@@ -1,0 +1,20 @@
+.card {
+    border: 2px solid blue;
+    border-radius: 8px;
+    padding: 8px;
+    display: inline-block;
+}
+
+:root {
+    background-color: #232323;
+    color: white;
+}
+
+table {
+    border: 1px solid red;
+}
+
+th, tr, td {
+    border: 1px solid red;
+    border-collapse: collapse;
+}

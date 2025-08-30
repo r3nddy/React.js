@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "id": "8391",
+      "name": "mon",
+      "job": "mon"
+    },
+    {
+      "id": "2226",
+      "name": "mark",
+      "job": "programmer"
+    },
+    {
+      "id": "f4dd",
+      "name": "sam",
+      "job": "programmer"
+    },
+    {
+      "id": "c3a0",
+      "name": "donald",
+      "job": "donald"
+    },
+    {
+      "id": "25e8",
+      "name": "jerome",
+      "job": "jerome"
+    }
+  ],
+  "products": [],
+  "todos": []
+}
